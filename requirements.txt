@@ -1,7 +1,10 @@
 fastapi
 uvicorn
-tweepy
-transformers
-pydantic
 streamlit
+tweepy
 python-dotenv
+transformers
+torch
+pandas
+requests
+plotly
