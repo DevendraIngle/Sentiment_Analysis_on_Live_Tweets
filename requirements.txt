@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+tweepy
+transformers
+pydantic
+streamlit
+python-dotenv

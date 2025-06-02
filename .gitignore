@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.venv
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor folders/files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Node modules (if any)
+node_modules/
+
+# Compiled files (for other languages)
+*.class
+*.jar
+*.war
+*.ear
+
+# Coverage reports
+.coverage
+htmlcov/
+coverage.xml
+
+# Temporary files
+*.tmp
+*.swp
+
