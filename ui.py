@@ -78,7 +78,7 @@ if st.button("Analyze"):
             elif response.status_code == 404:
                 st.warning("No tweets found for this topic. Try a different search term.")
             else:
-                st.error(f"Error: {response.status_code} - {response.text}")
+                st.error(f"Error: {response.status_code} - {response.text}, Error: Twitter API has a rate limit—only 1 request per 15 minutes allowed. 🚫Solution: Wait 15 minutes before trying again. ⏳")
                 
     except RequestException as e:
         st.error("Failed to connect to the server. Please make sure the API is running.")
