@@ -16,5 +16,5 @@ This project allows you to monitor Twitter conversations using AI-powered sentim
 ### ⚙️ Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/DevendraIngle/Sentiment_Analysis_on_Live_Tweets.git
    cd sentiment-analysis
