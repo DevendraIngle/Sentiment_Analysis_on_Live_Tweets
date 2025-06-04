@@ -1,6 +1,6 @@
 # 🐦 Sentiment Analysis on Live Tweets 🎭
 
-[![Watch the Video](https://www.loom.com/share/51a686aadef6438c9c2f760656a8a9dc?sid=043b9780-fe70-45f2-9e66-b6a6aec59b58)
+[![Watch the Video](https://www.loom.com/share/51a686aadef6438c9c2f760656a8a9dc?sid=76982972-0268-4707-9d75-8db2da8c78a8)](https://www.loom.com/share/51a686aadef6438c9c2f760656a8a9dc?sid=76982972-0268-4707-9d75-8db2da8c78a8)
 
 ## 🚀 Overview
 Track live tweets on a given topic and analyze their sentiment **in real-time**!  
